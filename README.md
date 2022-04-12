@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bajtsy
+- 👀 I’m interested in quantum mechanics
+- 🌱 I’m currently learning physics at ITESM
+- 💞️ I’m looking to collaborate on quantum computing
+- 📫 How to reach me: a01570628@itesm.mx
