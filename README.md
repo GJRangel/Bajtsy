@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bajtsy
+- 👋 Hi, I’m @GJRangel
 - 👀 I’m interested in quantum computing
 - 🌱 I’m currently learning physics at ITESM and some QML by myself
 - 💞️ I’m looking to collaborate on quantum computing
